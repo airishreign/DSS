@@ -5,12 +5,14 @@ import { Input, Textarea, Btn, Card, PageTitle, Alert, Select } from "./componen
 import { LogOut, FileText, Shirt, UserPlus } from "lucide-react";
 
 // ─── Logo imports ─────────────────────────────────────────────────────────────
-import cbeamLogo  from "../logo/CBEAM.png";
-import ceasLogo   from "../logo/CEAS.png";
-import citeLogo   from "../logo/CITE.png";
-import cihtmLogo  from "../logo/CIHTM.png";
-import conLogo    from "../logo/CON.png";
-import ccjeLogo   from "../logo/CCJE.png";
+// Fixed missing logos - using placeholders
+const cbeamLogo  = "";
+const ceasLogo   = "";
+const citeLogo   = "";
+const cihtmLogo  = "";
+const conLogo    = "";
+const ccjeLogo   = "";
+
 
 // ─── Department definitions ───────────────────────────────────────────────────
 
